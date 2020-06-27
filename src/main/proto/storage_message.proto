@@ -1,9 +1,9 @@
 syntax = "proto3";
 
-package techschool.pcbook;
+package pcbook;
 
 option go_package = "pb";
-option java_package = "com.dtbinh.techschool.pcbook.pb";
+option java_package = "com.dtbinh.pcbook.pb";
 option java_multiple_files = true;
 
 import "memory_message.proto";
